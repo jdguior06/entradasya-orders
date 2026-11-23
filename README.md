@@ -1,5 +1,7 @@
 # orders — EntradasYa
 
+[![CI](https://github.com/jdguior06/entradasya-orders/actions/workflows/ci.yml/badge.svg?branch=development)](https://github.com/jdguior06/entradasya-orders/actions/workflows/ci.yml)
+
 Gestiona las compras y **coordina el flujo**: reserva el cupo en events, cobra en payments, emite las entradas en tickets y pide el correo a notifications. Si algo falla, **compensa**: libera el cupo y reconcilia los pagos de resultado desconocido.
 
 - Puerto: **3003** · Base de datos: **orders_db**
