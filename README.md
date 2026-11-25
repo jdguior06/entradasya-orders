@@ -17,7 +17,7 @@ Gestiona las compras y **coordina el flujo**: reserva el cupo en events, cobra e
 | Llave pública JWT | `keys/jwt-public.pem` |
 | Servicios | events, payments, tickets y notifications levantados para comprar. Para ver el historial basta la BD |
 
-## Variables de entorno
+## Variables de entorno de pruebas
 
 | Variable | Ejemplo | Descripción |
 |---|---|---|
